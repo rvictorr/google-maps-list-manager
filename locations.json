@@ -1,0 +1,22 @@
+{
+  "Bucharest": {
+    "lat": 44.4268,
+    "lon": 26.1025,
+    "radius_km": 15
+  },
+  "Sofia": {
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "radius_km": 12
+  },
+  "Athens": {
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "radius_km": 20
+  },
+  "Crete": {
+    "lat": 35.2401,
+    "lon": 24.8093,
+    "radius_km": 60
+  }
+}
